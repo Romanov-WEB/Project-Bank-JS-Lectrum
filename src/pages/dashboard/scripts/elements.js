@@ -1,0 +1,10 @@
+export const cardBalance = document.getElementById('cardBalance');
+export const downloadPlaceholder = document.getElementById('downloadPlaceholder');
+export const allCards = document.getElementById('allCards');
+export const incomeOutcome = document.getElementById('incomeOutcome');
+export const allCardsChart = document.getElementById('allCardsChart');
+export const incomeOutcomeChart = document.getElementById('incomeOutcomeChart');
+export const incomeOutcomeTab = document.getElementById('incomeOutcomeTab');
+export const allCardsTab = document.getElementById('allCardsTab');
+export const menuTitle = document.getElementById('menuTitle');
+export const menuCardsWrapper = document.getElementById('menuCardsWrapper');

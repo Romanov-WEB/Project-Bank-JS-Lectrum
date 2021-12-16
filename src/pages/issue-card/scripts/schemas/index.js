@@ -1,0 +1,1 @@
+export { cardSchema } from './cardSchema';
